@@ -142,10 +142,10 @@ int _main(struct thread *td) {
   result = !result ? 0 : errno;
   printfsocket("install_payload: %d\n", result);
 
-  patch_update();
+  //patch_update();
 
   initSysUtil();
-  notify("Welcome to PS4HEN v"VERSION);
+  notify("☠ Welcome to PS4HEN v"VERSION "\nNo update blocker mod by c0d3m4st4\nAll credits to xvortex");
 
   printfsocket("Done.\n");
 
