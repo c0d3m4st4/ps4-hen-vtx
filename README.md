@@ -1,6 +1,6 @@
 # PS4HEN 1.7 - modified by c0d3m4st4
 
-All credit sto xvortex! I just commented the patch_update() function call xD
+All credits to xvortex! I just commented the patch_update() function call xD
 
 That seems to fix all crashes. I've got ZERO crashes in a week, testing a lot, before that i was getting like a 50% success rate, so i guess that was the culprit for some reason.
 
